@@ -1,10 +1,10 @@
 # SQL Projects
 
-# 🍜 Case Study #1: Danny's Diner 
+# CASE STUDY #1: DANNY'S DINER 
 <img src="https://user-images.githubusercontent.com/81607668/127727503-9d9e7a25-93cb-4f95-8bd0-20b87cb4b459.png" alt="Image" width="500" height="520">
 
-## 📚 Table of Contents
-- [Business Task](#business-task)
+## Table of Contents
+- [Business Task](#Problem_Statement)
 - [Entity Relationship Diagram](#entity-relationship-diagram)
 - [Case Study Questions](#case-study-questions)
 - [Solution on Github](https://github.com/manisharehal/SQL-Projects/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/SQL%20Syntax/Danny's%20Diner.sql)
@@ -12,11 +12,11 @@
 
 ***
 
-## Business Task
-Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. 
+## Problem Statement
+Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. Having this deeper connection with his customers will help deliver a better and more personalisec experiance for his loyal customers
 
 ## Entity Relationship Diagram
-
+You can inspect the entity relationship diagram and example data below.
 ![image](https://user-images.githubusercontent.com/81607668/127271130-dca9aedd-4ca9-4ed8-b6ec-1e1920dca4a8.png)
 
 ## Case Study Questions
