@@ -4,7 +4,7 @@
 
 ## Solution
 
-View the complete syntax [here](https://github.com/manisharehal/SQL-Projects/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/SQL%20Syntax/Danny's%20Diner.sql).
+View the complete syntax [here]https://github.com/sandeep177/SQL-Projects/blob/master/SQL%20Syntax.
 
 ***
 
