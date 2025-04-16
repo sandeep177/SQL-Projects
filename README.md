@@ -7,7 +7,7 @@
 - [Problem Statement](#Problem_Statement)
 - [Entity Relationship Diagram](#entity-relationship-diagram)
 - [Case Study Questions](#case-study-questions)
-- [Solution on Github](https://github.com/manisharehal/SQL-Projects/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/SQL%20Syntax/Danny's%20Diner.sql)
+- [Solution on Github](https://github.com/sandeep177/SQL-Projects/blob/master/SOLUTION.md)
 
 
 ***
