@@ -4,7 +4,7 @@
 
 ## Solution
 
-View the complete syntax [here] (https://github.com/sandeep177/SQL-Projects/blob/master/SQL%20Syntax).
+View the complete syntax [here](https://github.com/sandeep177/SQL-Projects/blob/master/SQL%20Syntax).
 
 ***
 
